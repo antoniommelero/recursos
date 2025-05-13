@@ -1,0 +1,99 @@
+12345678Z##MU123456A##Juan Pérez##13/05/2025 10:30:00##Dolor de cabeza##50.00
+X1234567L$$AN654321B$$María López$$14/05/2025 11:00:00$$Revisión general$$75.50
+98765432M&&MD789012C&&Carlos García&&15/05/2025 09:15:00&&Consulta dermatológica&&60.00
+12345678Z###MU999999Z###Laura Torres###13/05/2025 08:45:00###Control de presión###45.00
+Y2345678T###CN123789X###Pedro Alonso###14/05/2025 17:00:00###Consulta oftalmológica###88.00
+12345678A&&XL000123C&&Sonia Méndez&&15/05/2025 13:00:00&&Vacunación&&30.00
+1234567Z##MU123456A##Ana Torres##13-05-2025 10:30:00##Dolor de espalda##50.00
+12345678Z##MU12345A##Luis Fernández##14/05/2025 11:00:00##Revisión anual##75.50
+12345678Z##MU123456A##Elena Martínez##15/05/2025 09:15:00##Consulta general##sesenta
+12345678Z##MU123456A##Josefina Vidal##13/05/25 10:30:00##Ecografía##55.00
+X1234567L##MN001122B##Manuel Salas##14/05/2025 12:30:00##Consulta general##48.00
+Z2345678M&&RS998877Y&&Cristina Rosas&&15/05/2025 18:45:00&&Chequeo completo&&100.00
+12345678Z##ZZ123456X##Álvaro Gómez##16/05/2025 09:00:00##Consulta dental##65.00
+98765432P$$WW654321H$$Clara Navarro$$16/05/2025 15:30:00$$Fisioterapia$$45.00
+B1234567Q##MU123456A##Miguel Antón##17/05/2025 10:30:00##Consulta médica##50.00
+12345678Z##MU123456A##Marta Cano##invalid date##Revisión##60.00
+12345678Z##MU123456A##Luis Ruiz##18/05/2025 09:00:00##Análisis##bad_data
+12345678Z##XX654321Z##Sara Herrera##18/05/2025 12:00:00##Consulta preventiva##52.00
+X1234567L##MU321000D##David Pérez##19/05/2025 14:30:00##Consulta pediátrica##40.00
+Y2345678A&&NU333222K&&Isabel Molina&&19/05/2025 11:15:00&&Chequeo&&70.00
+98765432L##BADFORMAT##Mario Suárez##20/05/2025 10:00:00##Dolor muscular##50.00
+12345678Z##MU123456A##Antonia Peña##20/05/2025 08:00:00##Control trimestral##58.00
+Z2345678L##MD987654L##Rubén Ramos##21/05/2025 10:45:00##Revisión anual##77.00
+87654321Q##AU123456M##Patricia Robles##21/05/2025 16:00:00##Consulta medicina general##63.50
+12345678Z##MU123456A##Tomás Gil##21/05/2025 17:30:00##Vacunación gripe##25.00
+12345678Z##MU123456A##Juan Pérez##22/05/2025 09:00:00##Revisión postoperatoria##60.00
+X1234567L##AN654321B##María López##22/05/2025 10:30:00##Consulta dermatológica##65.00
+98765432M##MD789012C##Carlos García##22/05/2025 12:15:00##Consulta nutricional##55.00
+12345678A##XL000123C##Sonia Méndez##23/05/2025 14:00:00##Consulta embarazo##100.00
+Y2345678T##CN123789X##Pedro Alonso##24/05/2025 09:15:00##Control post cirugía##80.00
+B1234567Q##MU123456A##Miguel Antón##26/05/2025 10:30:00##Control mensual##55.00
+Z2345678M##RS998877Y##Cristina Rosas##27/05/2025 13:00:00##Revisión cardiovascular##90.00
+12345678Z##MU123456A##Juan Pérez##29/05/2025 11:00:00##Control de medicación##40.00
+X1234567L##AN654321B##María López##30/05/2025 08:45:00##Control lunar##70.00
+12345678Z##MU123456A##Tomás Gil##30/05/2025 17:30:00##Consulta revisión##28.00
+Z2345678L##MD987654L##Rubén Ramos##31/05/2025 10:45:00##Revisión general##50.00
+87654321Q##AU123456M##Patricia Robles##01/06/2025 08:15:00##Consulta médica##50.00
+98765432P##WW654321H##Clara Navarro##02/06/2025 10:00:00##Consulta ginecológica##45.00
+12345678Z##MU123456A##Josefina Vidal##03/06/2025 09:00:00##Seguimiento##65.00
+X1234567L##MN001122B##Manuel Salas##04/06/2025 12:30:00##Revisión de tratamiento##48.00
+12345678Z##MU123456A##Juan Pérez##05/06/2025 08:00:00##Chequeo anual##70.00
+Z2345678M##RS998877Y##Cristina Rosas##06/06/2025 10:30:00##Chequeo##80.00
+Y2345678T##CN123789X##Pedro Alonso##07/06/2025 11:45:00##Consulta oftalmológica##66.00
+B1234567Q##MU123456A##Miguel Antón##08/06/2025 12:00:00##Revisión##50.00
+12345678A##XL000123C##Sonia Méndez##09/06/2025 10:00:00##Consulta pediátrica##65.00
+Z2345678L##MD987654L##Rubén Ramos##10/06/2025 09:30:00##Consulta control##60.00
+12345678Z##MU123456A##Tomás Gil##11/06/2025 14:15:00##Vacunación##25.00
+87654321Q##AU123456M##Patricia Robles##12/06/2025 08:45:00##Revisión trimestral##63.50
+98765432M##MD789012C##Carlos García##13/06/2025 15:30:00##Consulta mensual##45.00
+X1234567L##AN654321B##María López##14/06/2025 09:00:00##Evaluación dermatológica##68.00
+12345678Z##MU123456A##Juan Pérez##15/06/2025 11:00:00##Control colesterol##55.00
+X1234567L##AN654321B##María López##16/06/2025 09:30:00##Consulta revisión##75.00
+12345678Z##MU123456##Elena Martínez##17/06/2025 10:15:00##Consulta general##60.00
+Z2345678M##RS998877Y##Cristina Rosas##18/06/2025 08:45:00##Chequeo nutricional##90.00
+98765432M##MD789012C##Carlos García##19/06/2025 13:00:00##Control de presión##50.00
+Y2345678T##CN123789X##Pedro Alonso##20/06/2025 12:30:00##Control ocular##72.00
+12345678A##XL000123C##Sonia Méndez##21/06/2025 11:00:00##Control embarazo##85.00
+B1234567Q##MU123456A##Miguel Antón##22/06/2025 14:45:00##Consulta médica##50.00
+87654321Q##AU123456M##Patricia Robles##23/06/2025 09:30:00##Ecografía##70.00
+Z2345678L##MD987654L##Rubén Ramos##24/06/2025 16:00:00##Seguimiento##65.00
+X1234567L##AN654321B##María López##25/06/2025 10:00:00##Control lunar##invalid
+12345678Z##MU123456A##Josefina Vidal##26/06/2025 10:30:00##Consulta ginecológica##62.00
+12345678Z##MU123456A##Tomás Gil##27/06/2025 08:15:00##Consulta gripe##30.00
+98765432P##WW654321H##Clara Navarro##28/06/2025 11:45:00##Consulta preventiva##50.00
+1234567Z##MU123456A##Ana Torres##29/06/2025 10:30:00##Revisión post vacunal##55.00
+Y2345678T##CN123789X##Pedro Alonso##30/06/2025 13:00:00##Consulta post quirúrgica##75.00
+Z2345678M##RS998877Y##Cristina Rosas##01/07/2025 09:15:00##Revisión rutina##80.00
+98765432M##MD789012C##Carlos García##02/07/2025 15:30:00##Consulta de control##50.00
+B1234567Q##MU123456A##Miguel Antón##03/07/2025 14:00:00##Control mensual##50.00
+INVALIDDNI##MU123456A##Lucas Ramírez##04/07/2025 10:30:00##Chequeo##60.00
+12345678A##XL000123C##Sonia Méndez##05/07/2025 08:00:00##Consulta pediátrica##68.00
+X1234567L##AN654321B##María López##06/07/2025 12:00:00##Consulta dermatológica##72.00
+98765432P##WW654321H##Clara Navarro##07/07/2025 10:30:00##Evaluación##50.00
+12345678Z##MU123456A##Juan Pérez##08-07-2025 11:00:00##Control hipertensión##55.00
+12345678Z##MU123456A##Juan Pérez##09/07/2025 09:30:00##Consulta general##55.00
+98765432M##MD789012C##Carlos García##10/07/2025 11:15:00##Evaluación mensual##50.00
+12345678Z##MU123456A##Tomás Gil##11/07/2025 13:00:00##Consulta odontológica##65.00
+Z2345678M##RS998877Y##Cristina Rosas##12/07/2025 10:00:00##Control visual##70.00
+X1234567L##AN654321B##María López##13/07/2025 08:45:00##Consulta capilar##60.00
+B1234567Q##MU123456A##Miguel Antón##14/07/2025 12:00:00##Control tensión##50.00
+12345678Z##MU123456A##Josefina Vidal##15/07/2025 09:00:00##Revisión ginecológica##62.00
+98765432P##WW654321H##Clara Navarro##16/07/2025 10:30:00##Consulta anual##50.00
+Z2345678L##MD987654L##Rubén Ramos##17/07/2025 11:30:00##Chequeo general##66.00
+12345678Z##MU123456A##Tomás Gil##18/07/2025 08:00:00##Vacunación##30.00
+INVALID123##MU123456A##Laura Rico##19/07/2025 10:30:00##Consulta pediátrica##60.00
+12345678A##XL000123C##Sonia Méndez##20/07/2025 09:45:00##Revisión infantil##68.00
+Y2345678T##CN123789X##Pedro Alonso##21/07/2025 12:15:00##Consulta oftalmológica##70.00
+12345678Z##MU123456##Sara Rubio##22/07/2025 13:00:00##Consulta médica##50.00
+X1234567L##AN654321B##María López##23/07/2025 14:30:00##Consulta de piel##invalid
+98765432P##WW654321H##Clara Navarro##24/07/2025 10:30:00##Evaluación general##45.00
+12345678Z##MU123456A##Juan Pérez##25-07-2025 09:30:00##Chequeo regular##55.00
+B1234567Q##MU123456A##Miguel Antón##26/07/2025 11:00:00##Consulta general##50.00
+12345678Z##MU123456A##Josefina Vidal##27/07/2025 12:30:00##Consulta ginecológica##60.00
+Z2345678M##RS998877Y##Cristina Rosas##28/07/2025 10:00:00##Chequeo rutina##70.00
+98765432M##MD789012C##Carlos García##29/07/2025 08:30:00##Control nutricional##58.00
+12345678Z##MU123456A##Tomás Gil##30/07/2025 09:45:00##Vacunación##30.00
+87654321Q##AU123456M##Patricia Robles##31/07/2025 10:00:00##Consulta trimestral##63.50
+X1234567L##AN654321B##María López##01/08/2025 11:15:00##Revisión capilar##75.00
+12345678Z##MU123456A##Juan Pérez##02/08/2025 12:00:00##Control anual##50.00
