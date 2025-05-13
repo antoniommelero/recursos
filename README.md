@@ -1,1 +1,2 @@
-https://download.oracle.com/java/22/archive/jdk-22.0.2_doc-all.zip
+
+https://www.oracle.com/java/technologies/javase-jdk22-doc-downloads.html#license-lightbox
